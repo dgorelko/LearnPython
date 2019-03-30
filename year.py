@@ -1,0 +1,6 @@
+year = input("Введите год ")
+print(type(year))
+year = int(year)
+print(type(year))
+is_leap = year % 4 == 0 and (year % 100 != 0 or year % 400 == 0)
+print(is_leap)
