@@ -1,8 +1,8 @@
 #!/usr/bin/env python 
 # -*- coding: utf-8 -*-
 
-#import random
-#number = random.randint(0, 101)
+# import random
+# number = random.randint(0, 101)
 
 number = 42
 

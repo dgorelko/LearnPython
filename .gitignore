@@ -4,3 +4,7 @@ __pycache__/
 *$py.class
 env/
 .ipynb_checkpoints/
+venv/
+
+.idea/
+.env/
