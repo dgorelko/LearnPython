@@ -5,6 +5,6 @@ __pycache__/
 env/
 .ipynb_checkpoints/
 venv/
-
 .idea/
 .env/
+.venv/
